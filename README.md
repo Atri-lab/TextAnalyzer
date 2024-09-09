@@ -1,4 +1,6 @@
-**Text Analyzer** is a dashboard that provides basic analysis for any input text.
+# Text Analyzer
+
+- It is a dashboard that provides basic analysis for any input text.
 
 ## Features
 
